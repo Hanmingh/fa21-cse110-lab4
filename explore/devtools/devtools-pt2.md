@@ -1,0 +1,2 @@
+1. the bug is num1 and num2 are declared as strings, so num1+num2 is just the concatenation of two strings.
+2. To fix this, when adding two numbers, we can do 'let result = number(num1) + number(num2)'.
